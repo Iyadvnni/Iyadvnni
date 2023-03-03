@@ -1,4 +1,4 @@
-h1>Hi, I'm Adedoyin! </a></h1>
+<h1>Hi, I'm Adedoyin!, A graduate data analyst </a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
@@ -9,7 +9,32 @@ h1>Hi, I'm Adedoyin! </a></h1>
 - <b>Power BI</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b> Python</b>
-  - [Analyzing Historical Stock Revenue Data and Building a Dashboard(Decrypter)](https://github.com/Iyadvnni/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)
+  - [Analyzing Historical Stock Revenue Data and Building a Dashboard](https://github.com/Iyadvnni/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Visialization 
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="HTML5" height="50" />     
+</div>
+
+</td><td valign="top" width="33%">
+
+
+### Programming language  
+<div align="center">   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+</td></tr></table>  
+
+<br/>  
 
 
 <h2>📑 Certifications :</h2>
@@ -17,7 +42,7 @@ h1>Hi, I'm Adedoyin! </a></h1>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="akinsemoyinadedoyin | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="akinsemoyinadedoyin | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
 [<img align="left" alt="Iyadvnni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Iyadvnni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
