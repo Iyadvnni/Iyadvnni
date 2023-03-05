@@ -7,7 +7,7 @@
 - <b>SQL</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://githu)
 - <b>Power BI</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Riby Transaction Case Study)](https://github.com/Iyadvnni/Riby-Hackaton-Case-Study-)
 - <b> Python</b>
   - [Analyzing Historical Stock Revenue Data and Building a Dashboard](https://github.com/Iyadvnni/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)
 
