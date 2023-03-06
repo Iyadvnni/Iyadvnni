@@ -3,9 +3,9 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Excel </b>
-  - [Image Analysis Middleware](https://github.com/)
+  - [KMS Customer Transaction Report](https://github.com/)
 - <b>SQL</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://githu)
+  - [Breweries](https://githu)
 - <b>Power BI</b>
   - [Riby Transaction Case Study)](https://github.com/Iyadvnni/Riby-Hackaton-Case-Study-)
 - <b> Python</b>
