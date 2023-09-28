@@ -14,6 +14,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+
 ### Data analysis 
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Excel-Workbook.png" alt="HTML5" height="50" />     
