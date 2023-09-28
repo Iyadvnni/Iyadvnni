@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adedoyin!, A graduate data analyst </a></h1>
+<h1>Hi, I'm Adedoyin!, A data analyst </a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
