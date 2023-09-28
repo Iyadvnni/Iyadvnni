@@ -14,7 +14,12 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+### Data analysis 
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Excel-Workbook.png" alt="HTML5" height="50" />     
+</div>
 
+</td><td valign="top" width="33%">
 
 ### Visialization 
 <div align="center">  
@@ -27,12 +32,13 @@
 ### Programming language  
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />   
+  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="34%">
 
-</td></tr></table>  
+ </td></tr></table> 
 
 <br/>  
 
